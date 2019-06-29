@@ -10,6 +10,8 @@ def find_max_value(array)
     number = array[i]
   end 
   i += 1
+end 
+number
 end
 
 def find_min_value(array)
